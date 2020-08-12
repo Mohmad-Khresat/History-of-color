@@ -29,7 +29,6 @@ body {
 	color: #57585c;
 	color: var(--color-text);
 	background-color: #fff;
-	background-image: rl('');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
